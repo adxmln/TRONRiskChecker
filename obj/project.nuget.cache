@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KwTywOyBFso=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Пользователь\\Desktop\\Тестовые\\TRONRiskChecker\\TRONRiskChecker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Пользователь\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

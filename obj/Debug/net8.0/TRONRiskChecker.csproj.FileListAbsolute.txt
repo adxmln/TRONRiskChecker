@@ -1,0 +1,17 @@
+C:\Users\Пользователь\Desktop\Тестовые\TRONRiskChecker\bin\Debug\net8.0\TRONRiskChecker.exe
+C:\Users\Пользователь\Desktop\Тестовые\TRONRiskChecker\bin\Debug\net8.0\TRONRiskChecker.deps.json
+C:\Users\Пользователь\Desktop\Тестовые\TRONRiskChecker\bin\Debug\net8.0\TRONRiskChecker.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Тестовые\TRONRiskChecker\bin\Debug\net8.0\TRONRiskChecker.dll
+C:\Users\Пользователь\Desktop\Тестовые\TRONRiskChecker\bin\Debug\net8.0\TRONRiskChecker.pdb
+C:\Users\Пользователь\Desktop\Тестовые\TRONRiskChecker\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Пользователь\Desktop\Тестовые\TRONRiskChecker\obj\Debug\net8.0\TRONRiskChecker.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Тестовые\TRONRiskChecker\obj\Debug\net8.0\TRONRiskChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Тестовые\TRONRiskChecker\obj\Debug\net8.0\TRONRiskChecker.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Тестовые\TRONRiskChecker\obj\Debug\net8.0\TRONRiskChecker.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Тестовые\TRONRiskChecker\obj\Debug\net8.0\TRONRiskChecker.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Тестовые\TRONRiskChecker\obj\Debug\net8.0\TRONRisk.FBBAA812.Up2Date
+C:\Users\Пользователь\Desktop\Тестовые\TRONRiskChecker\obj\Debug\net8.0\TRONRiskChecker.dll
+C:\Users\Пользователь\Desktop\Тестовые\TRONRiskChecker\obj\Debug\net8.0\refint\TRONRiskChecker.dll
+C:\Users\Пользователь\Desktop\Тестовые\TRONRiskChecker\obj\Debug\net8.0\TRONRiskChecker.pdb
+C:\Users\Пользователь\Desktop\Тестовые\TRONRiskChecker\obj\Debug\net8.0\TRONRiskChecker.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Тестовые\TRONRiskChecker\obj\Debug\net8.0\ref\TRONRiskChecker.dll
